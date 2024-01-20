@@ -6,3 +6,8 @@ git remote add alia-name https://github.com/wanglijian/study-git.git
 git push alia-name branch-name
 其中 alia-name 为远程库别名 
 branch-name 为分支名
+
+拉取远程库
+git pull alia-name branch-name
+其中 alia-name 为远程库别名 
+branch-name 为分支名
