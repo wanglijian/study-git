@@ -1,0 +1,3 @@
+创建别名
+git remote add alia-name https://github.com/wanglijian/study-git.git
+其中alia-name 为别名 一般与本地库名称保持一致 
