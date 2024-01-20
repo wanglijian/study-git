@@ -11,3 +11,8 @@ branch-name 为分支名
 git pull alia-name branch-name
 其中 alia-name 为远程库别名 
 branch-name 为分支名
+
+删除别名
+git remote remove alia-name
+修改别名
+git remote rename old new
