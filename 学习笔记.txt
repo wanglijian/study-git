@@ -1,3 +1,8 @@
 创建别名
 git remote add alia-name https://github.com/wanglijian/study-git.git
 其中alia-name 为别名 一般与本地库名称保持一致 
+
+推送远程库
+git push alia-name branch-name
+其中 alia-name 为远程库别名 
+branch-name 为分支名
