@@ -3,3 +3,4 @@
 `git remote remove alia-name`
 #### 修改别名
 `git remote rename old new`
+#### git pull
